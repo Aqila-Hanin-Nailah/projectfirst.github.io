@@ -49,6 +49,7 @@ nav li a:hover {
 .logo a {
     font-size: 50px;
     color: #F5EBEB;
+    font-family: 'Courier New', Courier, monospace;
 }
 main {
     display: flex;
